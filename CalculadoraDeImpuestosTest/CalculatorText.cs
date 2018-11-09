@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Calculator;
 
-namespace CalculadoraDeImpuestosTest
+namespace TaxesCalculatorTest
 {
 
     /*
